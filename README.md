@@ -11,6 +11,16 @@ https://pawelurbanek.com/rails-secure-encrypt-decrypt
 However, the solution implemented here does not include specifics on using ENV.fetch(value), which is where this solution fails out.
 
 
+Additional references for both encryption and testing:
+
+https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+https://medium.com/@ethanryan/getting-started-with-testing-in-rails-using-minitest-and-rspec-113fe1f866a
+https://www.rubyguides.com/2018/07/rspec-tutorial/#Getting_Started_With_RSpec
+https://guides.rubyonrails.org/testing.html
+https://blog.saeloun.com/2019/10/10/rails-6-adds-support-for-multi-environment-credentials.html
+
+
+
 Things you may want to cover:
 
 * Ruby version
