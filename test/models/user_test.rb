@@ -10,7 +10,4 @@ class UserTest < ActiveSupport::TestCase
     assert_not user.save, "Saved the user without a username"
   end
 
-  
-
-
 end
