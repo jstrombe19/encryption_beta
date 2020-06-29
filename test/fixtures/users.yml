@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: "Jared"
+  username: "junior"
+  encrypted_api_token: null
+  encrypted_api_secret: null
+  password_digest: MyString
+
+two:
+  name: MyString
+  username: MyString
+  encrypted_api_token: MyString
+  encrypted_api_secret: MyString
+  password_digest: MyString
